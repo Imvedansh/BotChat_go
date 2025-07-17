@@ -16,9 +16,7 @@ Backend URL fro testing
 
 
 backend/README.md
-markdown
-Copy
-Edit
+
 # Backend – GenAI Chatbot (FastAPI + Gemini)
 
 This is the backend for the GenAI Chatbot built using FastAPI. It connects with Google’s Gemini API to provide both normal chat and PDF-based Q&A.
