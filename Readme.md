@@ -1,4 +1,21 @@
-✅ backend/README.md
+Backend take 20-30 secs to kick up everytime started new session, then works flawlessly
+
+Loom link to walk through
+--> https://www.loom.com/share/64811992717f44e08d134f7dec84cb32?sid=0ffe8270-7b95-45a8-a981-369ca787edcf
+
+
+Loom link Demo
+-->> https://www.loom.com/share/a821449750574b719929082e294894d2?sid=2f0712cf-f075-44e4-9ec2-06d7bcfba83c
+
+Botchat frontend ->>>
+https://bot-chat-frontend-iyj5.vercel.app/
+
+
+Backend URL fro testing
+-->> https://backend-chat-9q0a.onrender.com/docs#/default/chat_api_chat_post
+
+
+backend/README.md
 markdown
 Copy
 Edit
