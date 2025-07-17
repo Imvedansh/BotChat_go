@@ -118,7 +118,3 @@ Let me know if you want a single combined README or want to add screenshots or d
 
 
 
-
-
-Ask ChatGPT
-You said:
