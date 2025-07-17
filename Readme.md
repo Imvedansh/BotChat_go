@@ -15,6 +15,15 @@ Backend URL fro testing
 -->> https://backend-chat-9q0a.onrender.com/docs#/default/chat_api_chat_post
 
 
+Backend_Github_Repo
+
+-->>> https://github.com/Imvedansh/Backend_Chat.git
+
+
+backend_frontend_repo
+-->>> https://github.com/Imvedansh/BotChat_frontend.git
+
+
 backend/README.md
 
 # Backend – GenAI Chatbot (FastAPI + Gemini)
