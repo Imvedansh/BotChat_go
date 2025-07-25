@@ -1,4 +1,5 @@
-[![Join Community](https://img.shields.io/badge/📧%20Request%20Slack%20Invite-Join%20Community-2ea44f?style=for-the-badge)](https://mail.google.com/mail/?view=cm&fs=1&to=sage@wiki.com&su=Request%20to%20Join%20Slack&body=Hi,%0A%0AI%20want%20to%20join%20the%20Slack%20community.%20Kindly%20invite%20me.%0A%0AThank%20you!)
+[![🚀 Join Community](https://img.shields.io/badge/🚀%20Join%20Community-Request%20Access-007acc?style=for-the-badge&logo=slack&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sage@wiki.com&su=Request%20to%20join%20Slack%20Community&body=Hey%20Sage%2C%0A%0AI%20hope%20you're%20doing%20well.%0A%0AI%20would%20like%20to%20join%20the%20Slack%20community.%20Kindly%20send%20me%20an%20invite%20at%20your%20convenience.%0A%0AThank%20you!)
+
 
 
 Backend take 20-30 secs to kick up everytime started new session, then works flawlessly
