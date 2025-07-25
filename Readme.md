@@ -1,4 +1,6 @@
-[![Join Our Slack Community](https://img.shields.io/badge/Join%20Community-Slack-4A154B?style=for-the-badge&logo=slack)](mailto:sage@wiki.com?subject=Request%20to%20Join%20Slack&body=Hi%2C%0A%0AI%20want%20to%20join%20the%20Slack%20community.%20Kindly%20invite%20me.%0A%0AThank%20you!)
+[![Join Our Slack Community](https://img.shields.io/badge/💬%20Join%20Community-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sage@wiki.com&su=Request%20to%20Join%20Slack&body=Hi,%0A%0AI%20want%20to%20join%20the%20Slack%20community.%20Kindly%20invite%20me.%0A%0AThank%20you!)
+
+
 Backend take 20-30 secs to kick up everytime started new session, then works flawlessly
 
 Loom link to walk through
